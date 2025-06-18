@@ -13,6 +13,4 @@ class Mountain_Array(object):
 mountain = Mountain_Array([0,5,10,2])  #checks peak index and returns it
 print(mountain.peakIndexinMountainArr())
 
-import play 
 
-print(play.percentcomp(110,40))
