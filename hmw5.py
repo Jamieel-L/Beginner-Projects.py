@@ -10,8 +10,7 @@ root = Tk()
 label2 = Label(root,text='K')
 label2.grid(row=4,column=2)
 
-def press():
-    """ lol """
+
 
    
    
